@@ -59,9 +59,9 @@ CREATE TABLE SpotifyClone.playback_histories(
 INSERT INTO SpotifyClone.plans (plan, price)
 VALUES
   ('gratuito', 0.00),
-  ('familiar', 7.99),
   ('universitário', 5.99),
-  ('pessoal', 6.99);
+  ('pessoal', 6.99),
+  ('familiar', 7.99);
 
 INSERT INTO SpotifyClone.artists (artist_name)
 VALUES
