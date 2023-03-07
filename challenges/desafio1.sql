@@ -99,7 +99,7 @@ VALUES
 INSERT INTO SpotifyClone.users (user_name, age, plan_id, date_plan_start)
 VALUES
   ('Barbara Liskov', 82, 1, '2019-10-20'),
-  ('Robert Cecul Martin', 58, 1, '2017-01-06'),
+  ('Robert Cecil Martin', 58, 1, '2017-01-06'),
   ('Ada Lovelace', 37, 2, '2017-12-30'),
   ('Martin Fowler', 46, 2, '2017-01-17'),
   ('Sandi Metz', 58, 3, '2018-04-29'),
@@ -144,5 +144,5 @@ VALUES
   (7, 4, '2011-12-15 22:30:49'),
   (8, 4, '2012-03-17 14:56:41'),
   (9, 9, '2022-02-24 21:14:22'),
-  (10, 10, '2015-12-13 08:30:22');
+  (10, 3, '2015-12-13 08:30:22');
 
